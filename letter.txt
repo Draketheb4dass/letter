@@ -1,6 +1,5 @@
-<<<<<<< HEAD
 //Desc
 --My name is Jephte Colin. I'm a developer.
-=======
+
 My name is Jephte Colin. I'm a developer.
 >>>>>>> parent of ed97ae9... alias added
